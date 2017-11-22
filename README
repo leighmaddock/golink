@@ -1,8 +1,19 @@
+golink
+-------
+
 Use go/<link> to redirect to linkto address.
 
 Useful for internal links to be human readable shorthand.
 
+HACKING
+-------
 
-TODO:
-Human interface GUI to replace CLI with authentication
-Redirect to new admin GUI when golink not found.
+    workon golink
+    python ./setup.py develop
+
+
+TODO
+-----
+
+* Human interface GUI to replace CLI with authentication
+* Redirect to new admin GUI when golink not found.
